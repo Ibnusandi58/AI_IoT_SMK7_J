@@ -1,1 +1,2 @@
 # AI_IoT_SMK7_J
+# AI_IoT_SMK7_J
